@@ -15,6 +15,8 @@ export default function Home() {
       <div className="container text-black px-10">
         <NavbarItem />
       </div>
+
+      <div className="container"></div>
     </main>
   );
 }
